@@ -1,10 +1,5 @@
-# hello-world
-Github Tutorial for UC Berkeley
-# **Hi Everyone!**
-I am making changes.<br>
-I go to UC Berkeley.<br>
-Hope you are well!  
-***Scott Belarmino***
+Hi there!<br>  
+Welcome to my github profile! I am an analytics leader with experience in SQL, Python, ETL, and Tableau. <br>
+I am currently pursuing my master's in data science from UC Berkeley. Looking forward to collaborating with you.<br>  
+Go Bears!
 
-Look at this emoji below.  
-::joy::
